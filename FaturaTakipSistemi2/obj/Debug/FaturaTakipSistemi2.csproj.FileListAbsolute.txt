@@ -1,0 +1,54 @@
+C:\Users\brkdr\Desktop\FaturaTakip\FaturaTakipSistemi2\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.exe.config
+C:\Users\brkdr\Desktop\FaturaTakip\FaturaTakipSistemi2\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.exe
+C:\Users\brkdr\Desktop\FaturaTakip\FaturaTakipSistemi2\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.pdb
+C:\Users\brkdr\Desktop\FaturaTakip\FaturaTakipSistemi2\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.AssemblyReference.cache
+C:\Users\brkdr\Desktop\FaturaTakip\FaturaTakipSistemi2\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.Form1.resources
+C:\Users\brkdr\Desktop\FaturaTakip\FaturaTakipSistemi2\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.Properties.Resources.resources
+C:\Users\brkdr\Desktop\FaturaTakip\FaturaTakipSistemi2\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.GenerateResource.cache
+C:\Users\brkdr\Desktop\FaturaTakip\FaturaTakipSistemi2\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.CoreCompileInputs.cache
+C:\Users\brkdr\Desktop\FaturaTakip\FaturaTakipSistemi2\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.exe
+C:\Users\brkdr\Desktop\FaturaTakip\FaturaTakipSistemi2\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.pdb
+C:\Users\brkdr\Desktop\FaturaTakip\FaturaTakipSistemi2\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.exe.config
+E:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.exe.config
+E:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.exe
+E:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.pdb
+D:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.exe.config
+D:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.exe
+D:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.pdb
+E:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.exe
+E:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.pdb
+E:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.AssemblyReference.cache
+E:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.Form1.resources
+E:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.Properties.Resources.resources
+E:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.GenerateResource.cache
+E:\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.exe.config
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.exe
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.pdb
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.AssemblyReference.cache
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.Form1.resources
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.Properties.Resources.resources
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.GenerateResource.cache
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.exe
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.pdb
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.exe.config
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.exe
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.pdb
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.AssemblyReference.cache
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.Form1.resources
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.Properties.Resources.resources
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.GenerateResource.cache
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.exe
+C:\Users\LAB-1\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.pdb
+C:\Users\brkdr\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.exe.config
+C:\Users\brkdr\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.exe
+C:\Users\brkdr\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\bin\Debug\FaturaTakipSistemi2.pdb
+C:\Users\brkdr\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.AssemblyReference.cache
+C:\Users\brkdr\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.Form1.resources
+C:\Users\brkdr\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.Properties.Resources.resources
+C:\Users\brkdr\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.GenerateResource.cache
+C:\Users\brkdr\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.csproj.CoreCompileInputs.cache
+C:\Users\brkdr\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.exe
+C:\Users\brkdr\Desktop\Eyup Durkup 1194 Fatura Takip Sistemi güncellenmiş hali\FaturaTakipSistemi2\obj\Debug\FaturaTakipSistemi2.pdb
